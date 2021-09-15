@@ -4,10 +4,11 @@
 
 ## ⚡ Technologies
 
+![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FX-Max&count_private=true&show_icons=true&include_all_commits=true)
